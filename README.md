@@ -24,7 +24,7 @@ $$
 p b \cdot (1 + f b)^{-\gamma} - (1 - p) (1 - f)^{-\gamma} = 0
 $$
 
-This condition can be rearranged and solved to yield the generalized Kelly fraction:
+This condition can be rearranged and solved for $$f$$ to yield the generalized Kelly fraction:
 
 $$
 f^* = \frac{\left( \frac{p b}{1 - p} \right)^{\frac{1}{\gamma}} - 1}{b + \left( \frac{p b}{1 - p} \right)^{\frac{1}{\gamma}}}
